@@ -1,0 +1,9 @@
+line-bot-sdk
+flask
+gunicorn
+lxml
+bs4
+schedule
+gspread
+oauth2client
+APScheduler
